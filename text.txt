@@ -1,1 +1,3 @@
 Hello. This is Demo for use of git!
+##--------------------------------
+This is New contents for git. Lowaryxie
